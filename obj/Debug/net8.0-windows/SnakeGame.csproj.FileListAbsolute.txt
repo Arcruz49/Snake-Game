@@ -1,0 +1,14 @@
+C:\Users\Arthur Cruz\Documents\projetos pessoais\SnakeGame\bin\Debug\net8.0-windows\SnakeGame.exe
+C:\Users\Arthur Cruz\Documents\projetos pessoais\SnakeGame\bin\Debug\net8.0-windows\SnakeGame.deps.json
+C:\Users\Arthur Cruz\Documents\projetos pessoais\SnakeGame\bin\Debug\net8.0-windows\SnakeGame.runtimeconfig.json
+C:\Users\Arthur Cruz\Documents\projetos pessoais\SnakeGame\bin\Debug\net8.0-windows\SnakeGame.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\SnakeGame\bin\Debug\net8.0-windows\SnakeGame.pdb
+C:\Users\Arthur Cruz\Documents\projetos pessoais\SnakeGame\obj\Debug\net8.0-windows\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur Cruz\Documents\projetos pessoais\SnakeGame\obj\Debug\net8.0-windows\SnakeGame.AssemblyInfoInputs.cache
+C:\Users\Arthur Cruz\Documents\projetos pessoais\SnakeGame\obj\Debug\net8.0-windows\SnakeGame.AssemblyInfo.cs
+C:\Users\Arthur Cruz\Documents\projetos pessoais\SnakeGame\obj\Debug\net8.0-windows\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\Arthur Cruz\Documents\projetos pessoais\SnakeGame\obj\Debug\net8.0-windows\SnakeGame.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\SnakeGame\obj\Debug\net8.0-windows\refint\SnakeGame.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\SnakeGame\obj\Debug\net8.0-windows\SnakeGame.pdb
+C:\Users\Arthur Cruz\Documents\projetos pessoais\SnakeGame\obj\Debug\net8.0-windows\SnakeGame.genruntimeconfig.cache
+C:\Users\Arthur Cruz\Documents\projetos pessoais\SnakeGame\obj\Debug\net8.0-windows\ref\SnakeGame.dll
